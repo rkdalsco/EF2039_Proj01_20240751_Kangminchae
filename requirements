@@ -1,0 +1,7 @@
+pandas
+openpyxl
+matplotlib
+konlpy
+transformers
+torch
+accelerate
